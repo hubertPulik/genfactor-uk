@@ -1,0 +1,35 @@
+[
+  {
+    "Id": 1,
+    "date_created": "01.02.2023, 11:20",
+    "order_status": "Placed",
+    "client_ID": 245,
+    "sum_netto": 350,
+    "sum_brutto": 500,
+    "shipping_type_ID": 1,
+    "custom_field_1": "",
+    "custom_field_2": ""
+  },
+  {
+    "Id": 2,
+    "date_created": "01.02.2023, 11:20",
+    "order_status": "Placed",
+    "client_ID": 245,
+    "sum_netto": 350,
+    "sum_brutto": 500,
+    "shipping_type_ID": 1,
+    "custom_field_1": "",
+    "custom_field_2": ""
+  },
+  {
+    "Id": 3,
+    "date_created": "01.02.2023, 11:20",
+    "order_status": "Placed",
+    "client_ID": 245,
+    "sum_netto": 350,
+    "sum_brutto": 500,
+    "shipping_type_ID": 1,
+    "custom_field_1": "",
+    "custom_field_2": ""
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 2342,
+    "login": "Adam",
+    "password": "123456",
+    "email": "adam@poczta.pl",
+    "role": "client",
+    "billing_data_id": 123245,
+    "shipping_data_id": 23954
+  },
+  {
+    "id": 3342,
+    "login": "kowal",
+    "password": "123456",
+    "email": "kowal@poczta.pl",
+    "role": "client",
+    "billing_data_id": 1223245,
+    "shipping_data_id": 2393254
+  },
+  {
+    "id": 6342,
+    "login": "jan",
+    "password": "123456",
+    "email": "jan@poczta.pl",
+    "role": "client",
+    "billing_data_id": 123245,
+    "shipping_data_id": 23954
+  }
+]

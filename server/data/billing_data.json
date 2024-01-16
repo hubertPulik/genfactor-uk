@@ -1,0 +1,15 @@
+[
+  {
+    "userId": 1,
+    "name": "Adam Kowalski",
+    "company": "Affinity",
+    "tax": 23342355,
+    "adress": "Warszawska 18",
+    "city": "Siedlce",
+    "zip": "05-350",
+    "country": "PL",
+    "phone": "+48500400300",
+    "customField_1": "",
+    "customField_2": ""
+  }
+]

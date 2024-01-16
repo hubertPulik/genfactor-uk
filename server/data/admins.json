@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "login": "Adam",
+    "password": "123456",
+    "email": "adam@poczta.pl",
+    "level": "administrator"
+  }
+]

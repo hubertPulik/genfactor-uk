@@ -1,0 +1,17 @@
+[
+  {
+    "id": 11,
+    "name": "Dostawa kurierem",
+    "netto": 17
+  },
+  {
+    "id": 12,
+    "name": "Paczkomat",
+    "netto": 12
+  },
+  {
+    "id": 11,
+    "name": "Odbiór osobisty",
+    "netto": 0
+  }
+]

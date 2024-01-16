@@ -1,0 +1,20 @@
+[
+  {
+    "orderId": 1,
+    "productId": 102,
+    "netto": 234,
+    "quantity": 2
+  },
+  {
+    "orderId": 1,
+    "productId": 103,
+    "netto": 453,
+    "quantity": 1
+  },
+  {
+    "orderId": 1,
+    "productId": 106,
+    "netto": 22,
+    "quantity": 3
+  }
+]

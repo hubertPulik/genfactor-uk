@@ -1,0 +1,12 @@
+[
+  {
+    "userId": 1,
+    "name": "Adam Kowalski",
+    "company": "Affinity",
+    "adress": "Warszawska 18",
+    "city": "Siedlce",
+    "zip": "05-350",
+    "country": "PL",
+    "phone": "+48500400300",
+  }
+]

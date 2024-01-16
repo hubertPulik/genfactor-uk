@@ -1,0 +1,32 @@
+[
+  {
+    "cartId": 121235235,
+    "productId": 102,
+    "quantity": 2
+  },
+  {
+    "cartId": 121235235,
+    "productId": 103,
+    "quantity": 1
+  },
+  {
+    "cartId": 121235235,
+    "productId": 106,
+    "quantity": 3
+  },
+  {
+    "cartId": 34359346,
+    "productId": 107,
+    "quantity": 5
+  },
+  {
+    "cartId": 34359346,
+    "productId": 101,
+    "quantity": 1
+  },
+  {
+    "cartId": 34359346,
+    "productId": 109,
+    "quantity": 1
+  }
+]
