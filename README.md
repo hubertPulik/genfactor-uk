@@ -2,7 +2,7 @@
 
 Projekt sklepu www z produktami marki Gen Factor i szkoleniami związanymi z nimi, całość ma potrzeby rynku w UK.
 Jestem autorem kodu zawartego w tym repozytorium. Prawo do jego użytkowania i dalszego rozwijania ma:
-Malwina Kowalkowska (malwinakowal1@gmail.com)
+M***** Ko******* (ma********@gmail.com)
 
 ## Projekt zainicjowany 17.06.2023r.
 
